@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\autorepair\Autorepair\AutoRipeir\bin\Debug\AutoRipeir.exe.config
+C:\Users\User\Desktop\autorepair\Autorepair\AutoRipeir\bin\Debug\AutoRipeir.exe
+C:\Users\User\Desktop\autorepair\Autorepair\AutoRipeir\bin\Debug\AutoRipeir.pdb
+C:\Users\User\Desktop\autorepair\Autorepair\AutoRipeir\obj\Debug\AutoRepair.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\autorepair\Autorepair\AutoRipeir\obj\Debug\AutoRipeir.Auth.resources
+C:\Users\User\Desktop\autorepair\Autorepair\AutoRipeir\obj\Debug\AutoRipeir.Properties.Resources.resources
+C:\Users\User\Desktop\autorepair\Autorepair\AutoRipeir\obj\Debug\AutoRepair.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\autorepair\Autorepair\AutoRipeir\obj\Debug\AutoRipeir.exe
+C:\Users\User\Desktop\autorepair\Autorepair\AutoRipeir\obj\Debug\AutoRipeir.pdb

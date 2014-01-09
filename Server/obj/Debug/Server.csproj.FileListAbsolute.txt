@@ -7,3 +7,13 @@ c:\users\dmitry\documents\visual studio 2012\Projects\AutoRipeir\Server\obj\Debu
 C:\Users\Dmitry\Documents\Visual Studio 2012\Projects\AutoRepair\Server\bin\Debug\Server.exe.config
 C:\Users\Dmitry\Documents\Visual Studio 2012\Projects\AutoRepair\Server\obj\Debug\Server.exe
 C:\Users\Dmitry\Documents\Visual Studio 2012\Projects\AutoRepair\Server\obj\Debug\Server.pdb
+C:\Users\User\Desktop\autorepair\Autorepair\Server\bin\Debug\Server.exe.config
+C:\Users\User\Desktop\autorepair\Autorepair\Server\obj\Debug\Server.exe
+C:\Users\User\Desktop\autorepair\Autorepair\Server\obj\Debug\Server.pdb
+C:\Users\User\Desktop\autorepair\Autorepair\Server\bin\Debug\Server.exe
+C:\Users\User\Desktop\autorepair\Autorepair\Server\bin\Debug\Server.pdb
+C:\Users\User\Desktop\autorepair\Autorepair\Server\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\autorepair\Autorepair\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\autorepair\Autorepair\Server\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\autorepair\Autorepair\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\autorepair\Autorepair\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
