@@ -1,0 +1,6 @@
+c:\users\dmitry\documents\visual studio 2012\Projects\AutoRipeir\Server\bin\Debug\Server.exe.config
+c:\users\dmitry\documents\visual studio 2012\Projects\AutoRipeir\Server\bin\Debug\Server.exe
+c:\users\dmitry\documents\visual studio 2012\Projects\AutoRipeir\Server\bin\Debug\Server.pdb
+c:\users\dmitry\documents\visual studio 2012\Projects\AutoRipeir\Server\obj\Debug\Server.exe
+c:\users\dmitry\documents\visual studio 2012\Projects\AutoRipeir\Server\obj\Debug\Server.pdb
+c:\users\dmitry\documents\visual studio 2012\Projects\AutoRipeir\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
