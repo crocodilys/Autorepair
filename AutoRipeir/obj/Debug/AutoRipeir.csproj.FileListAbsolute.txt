@@ -1,9 +1,0 @@
-c:\users\dmitry\documents\visual studio 2012\Projects\AutoRipeir\AutoRipeir\bin\Debug\AutoRipeir.exe.config
-c:\users\dmitry\documents\visual studio 2012\Projects\AutoRipeir\AutoRipeir\bin\Debug\AutoRipeir.exe
-c:\users\dmitry\documents\visual studio 2012\Projects\AutoRipeir\AutoRipeir\bin\Debug\AutoRipeir.pdb
-c:\users\dmitry\documents\visual studio 2012\Projects\AutoRipeir\AutoRipeir\obj\Debug\AutoRipeir.Auth.resources
-c:\users\dmitry\documents\visual studio 2012\Projects\AutoRipeir\AutoRipeir\obj\Debug\AutoRipeir.Properties.Resources.resources
-c:\users\dmitry\documents\visual studio 2012\Projects\AutoRipeir\AutoRipeir\obj\Debug\AutoRipeir.csproj.GenerateResource.Cache
-c:\users\dmitry\documents\visual studio 2012\Projects\AutoRipeir\AutoRipeir\obj\Debug\AutoRipeir.exe
-c:\users\dmitry\documents\visual studio 2012\Projects\AutoRipeir\AutoRipeir\obj\Debug\AutoRipeir.pdb
-c:\users\dmitry\documents\visual studio 2012\Projects\AutoRipeir\AutoRipeir\obj\Debug\AutoRipeir.csprojResolveAssemblyReference.cache
