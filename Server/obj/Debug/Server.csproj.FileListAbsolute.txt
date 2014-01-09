@@ -4,3 +4,6 @@ c:\users\dmitry\documents\visual studio 2012\Projects\AutoRipeir\Server\bin\Debu
 c:\users\dmitry\documents\visual studio 2012\Projects\AutoRipeir\Server\obj\Debug\Server.exe
 c:\users\dmitry\documents\visual studio 2012\Projects\AutoRipeir\Server\obj\Debug\Server.pdb
 c:\users\dmitry\documents\visual studio 2012\Projects\AutoRipeir\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Documents\Visual Studio 2012\Projects\AutoRepair\Server\bin\Debug\Server.exe.config
+C:\Users\Dmitry\Documents\Visual Studio 2012\Projects\AutoRepair\Server\obj\Debug\Server.exe
+C:\Users\Dmitry\Documents\Visual Studio 2012\Projects\AutoRepair\Server\obj\Debug\Server.pdb

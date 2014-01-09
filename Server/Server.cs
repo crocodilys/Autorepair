@@ -41,6 +41,7 @@ namespace Server
                 // Read the data stream from the client. 
                 byte[] bytes = new byte[256];
                 NetworkStream stream = tcpClient.GetStream();
+
                 stream.Read(bytes, 0, bytes.Length);
 
                 TcpClient mscClient;

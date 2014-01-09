@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRipeir", "AutoRipeir\AutoRipeir.csproj", "{B5D0BC86-D33F-4A11-B548-C493E5D4F81B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRepair", "AutoRipeir\AutoRepair.csproj", "{B5D0BC86-D33F-4A11-B548-C493E5D4F81B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{EE4B5304-2619-4965-90FF-B24C165C895C}"
 EndProject
